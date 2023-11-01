@@ -5,6 +5,6 @@
 
 
 <h3>Some statistics:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasalvisimader&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="lucasalvisimader" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=lucasalvisimader&show_icons=true&locale=en&theme=dark&hide_border=true" alt="lucasalvisimader" /></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasalvisimader&theme=dark&hide_border=true" alt="lucasalvisimader" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasalvisimader&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="lucasalvisimader" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=lucasalvisimader&show_icons=true&locale=en&theme=dark&hide_border=true" alt="lucasalvisimader" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasalvisimader&theme=dark&hide_border=true" alt="lucasalvisimader" /></p>
