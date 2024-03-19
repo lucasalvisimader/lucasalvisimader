@@ -4,6 +4,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lucasalvisimader&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+<h3>Contribuitions</h3>
+<img src=https://github-readme-activity-graph.vercel.app/graph?username=Lucas&theme=react-dark&bg_color=20232a&hide_border=true>
+
 <h3 align="left">Languages:</h3>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
