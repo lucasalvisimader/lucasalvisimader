@@ -2,7 +2,15 @@
   <img src="https://komarev.com/ghpvc/?username=lucasalvisimader&label=Profile%20views&color=0e75b6&style=flat" alt="lucasalvisimader" /> 
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lucasalvisimader&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<h3>Some statistics:</h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasalvisimader&show_icons=true&locale=en&layout=compact&langs_count=10&theme=nightowl&hide_border=true" alt="lucasalvisimader" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasalvisimader&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="lucasalvisimader" />
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasalvisimader&theme=nightowl&hide_border=true" alt="lucasalvisimader" />
+</p>
 
 <h3>Contribuitions</h3>
 <img src=https://github-readme-activity-graph.vercel.app/graph?username=lucasalvisimader&theme=react-dark&bg_color=20232a&hide_border=true>
@@ -57,14 +65,4 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
-</p>
-
-<h3>Some statistics:</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasalvisimader&show_icons=true&locale=en&layout=compact&langs_count=10&theme=nightowl&hide_border=true" alt="lucasalvisimader" /></p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasalvisimader&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="lucasalvisimader" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasalvisimader&theme=nightowl&hide_border=true" alt="lucasalvisimader" />
 </p>
