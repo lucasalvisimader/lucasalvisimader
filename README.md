@@ -6,9 +6,9 @@
 
 - 🔭 I'm working on recreating the game Inscryption with React and Spring:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasalvisimader&repo=Inscryption-front-end)](https://github.com/lucasalvisimader/Inscryption-front-end)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasalvisimader&repo=Inscryption-front-end&theme=dark)](https://github.com/lucasalvisimader/Inscryption-front-end)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasalvisimader&repo=Inscryption-back-end)](https://github.com/lucasalvisimader/Inscryption-back-end)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasalvisimader&repo=Inscryption-back-end&theme=dark)](https://github.com/lucasalvisimader/Inscryption-back-end)
 
 - 🤖 I work at WEG S.A.
 
