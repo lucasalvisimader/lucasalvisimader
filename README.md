@@ -4,7 +4,7 @@
 
 🚀 Some of my main projects:
 
-- 🔭 I'm working on recreating the game Inscryption with React and Spring:
+- 🔭 I'm working on recreating the game Inscryption with React:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucasalvisimader&repo=Inscryption-front-end&theme=dark)](https://github.com/lucasalvisimader/Inscryption-front-end)
 
