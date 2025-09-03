@@ -72,14 +72,6 @@
   </a> 
 </p>
 
-
-
-<hr>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xztt1rei74oajwzbzchwlsf4d)
-
-<hr>
-
 ## Some Statistics
 
 <p align="left"> 
